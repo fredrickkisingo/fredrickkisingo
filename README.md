@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo" alt="fredrickkisingo" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Node.js**
 
 - 👯 I’m looking to collaborate on **Open Source projects**
 
 - 👨‍💻 All of my projects are available at [https://fredrickisingo.netlify.app/](https://fredrickisingo.netlify.app/)
 
-- 💬 Ask me about **Vue, Laravel and Nodejs**
+- 💬 Ask me about **Vue.js, Laravel and Node.js**
 
 - 📫 How to reach me **fredrickkisingo@gmail.com**
 
