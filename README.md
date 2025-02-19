@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo&margin-w=15&theme=onedark" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo&margin-w=15&theme=flat" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -71,18 +71,23 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fredrickkisingo&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fredrickkisingo&show_icons=true&theme=light" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fredrickkisingo&show_icons=true&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fredrickkisingo&show_icons=true&layout=compact&theme=light" alt="Top Languages" />
 </p>
 
 ---
+
+### 🔥 Streak Stats:
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fredrickkisingo&theme=light" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo&theme=radical&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo&theme=flat&margin-w=15" alt="GitHub Trophies" />
 </p>
