@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fredrick Kisingo</h1>
 <h3 align="center">A passionate fullstack developer from Africa</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo" alt="fredrickkisingo" /></a> </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo" alt="fredrickkisingo" /></a> </p>
+ -->
 - 👯 I’m looking to collaborate on **Open source projects**
 
 - 👨‍💻 All of my projects are available at [https://fredrickisingo.netlify.app/](https://fredrickisingo.netlify.app/)
