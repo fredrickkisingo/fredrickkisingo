@@ -14,8 +14,6 @@
 - 👨‍💻 Check out my projects at **[My Portfolio](https://fredrickisingo.netlify.app/)**
 - 💬 Ask me about **Vue.js, Laravel, Nuxt.js, and Node.js**
 - 📫 How to reach me: **fredrickkisingo@gmail.com**
-- 📄 Know about my experience: **[My Resume](https://fredrickisingo.netlify.app/)**
-
 ---
 
 ### 📬 Connect With Me:
