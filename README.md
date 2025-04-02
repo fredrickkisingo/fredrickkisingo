@@ -48,8 +48,8 @@
   </a>
   <!-- Firebase -->
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer noopener">
-    <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e228b72f12330888fe7827ad3ab6369c3c2bcd7d64b4e0108758b0a7/firebase/images/touchicon-180.png" 
-         alt="Firebase" width="40" height="40" class="hover:opacity-80 transition-opacity">
+    <img src="https://www.gstatic.com/devrel-devsite/prod/v45f61267e228b72f12330888fe7827ad3ab6369c3c2bcd7d64b4e0108758b0a7/firebase/js/firebase-icon.svg" 
+     alt="Firebase" width="40" height="40">
   </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
