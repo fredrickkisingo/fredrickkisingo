@@ -12,7 +12,7 @@
 ### 🚀 About Me
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 👨‍💻 Check out my projects at **[My Portfolio](https://fredrickisingo.netlify.app/)**
-- 💬 Ask me about **Vue.js, Laravel, Nuxt.js, and Node.js**
+- 💬 Ask me about **Vue.js, Laravel, Nuxt.js,Devops and Node.js**
 - 📫 How to reach me: **fredrickkisingo@gmail.com**
 ---
 
