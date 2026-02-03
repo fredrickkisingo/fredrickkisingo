@@ -74,11 +74,17 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fredrickkisingo&show_icons=true&theme=light" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=fredrickkisingo&show_icons=true&theme=light"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fredrickkisingo&show_icons=true&layout=compact&theme=light" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrickkisingo&layout=compact&theme=light"
+    alt="Top Languages"
+  />
 </p>
 
 ---
