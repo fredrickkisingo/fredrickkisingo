@@ -71,18 +71,7 @@
   </a>
 </p>
 
-<p align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=fredrickkisingo)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrickkisingo&layout=compact&theme=light" />
-</p>
+### 🔥 Streak Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=fredrickkisingo)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrickkisingo&layout=compact&theme=light&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo&theme=flat&margin-w=15" />
-</p>
