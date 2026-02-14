@@ -45,11 +45,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   </a>
-  <!-- GitLab CI/CD -->
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab CI/CD" width="40" height="40"/>
   </a>
-  <!-- Firebase -->
    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
      
@@ -73,29 +71,16 @@
   </a>
 </p>
 
----
-
 ### 📊 GitHub Stats:
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=fredrickkisingo&show_icons=true&theme=light"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fredrickkisingo&show_icons=true&theme=light&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrickkisingo&layout=compact&theme=light"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrickkisingo&layout=compact&theme=light&cache_seconds=1800" />
 </p>
-
----
-
-
----
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo&theme=flat&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo&theme=flat&margin-w=15" />
 </p>
