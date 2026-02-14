@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fredrickkisingo&show_icons=true&theme=light" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=fredrickkisingo)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
 
 <p align="center">
