@@ -1,20 +1,19 @@
 <h1 align="center">Hi 👋, I'm Fredrick Kisingo</h1>
 <h3 align="center">A Passionate Fullstack Developer from Africa</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo&margin-w=15&theme=flat" alt="GitHub Trophies" />
-  </a>
-</p>
+
+<br />
+<br />
 
 ---
 
 ### 🚀 About Me
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 👨‍💻 Check out my projects at **[My Portfolio](https://fredrickisingo.netlify.app/)**
-- 💬 Ask me about **Vue.js, Laravel, Nuxt.js,Devops and Node.js**
+- 💬 Ask me about **Vue.js, Laravel, Nuxt.js,PHP,Devops and Node.js**
 - 📫 How to reach me: **fredrickkisingo@gmail.com**
 ---
+<br />
 
 ### 📬 Connect With Me:
 <p align="left">
@@ -25,8 +24,10 @@
 
 ---
 
+<br />
+
 ### 🛠️ Languages & Tools:
-<p align="left">
+<p align="left" style="padding-bottom:10px">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
   </a>
@@ -71,6 +72,14 @@
   </a>
 </p>
 
+---
+
+### 💻 GitHub Stats
+<div style="display: flex;"; align="left;padding-top:15px">
+  <img alt="Fredrick's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=fredrickkisingo&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" style="height: 192px;">
+</div>
+
+---
 
 ### 🔥 Streak Stats:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=fredrickkisingo)](https://git.io/streak-stats)
