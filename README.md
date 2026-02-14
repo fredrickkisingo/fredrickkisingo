@@ -71,16 +71,18 @@
   </a>
 </p>
 
-### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fredrickkisingo&show_icons=true&theme=light&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fredrickkisingo&show_icons=true&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrickkisingo&layout=compact&theme=light" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredrickkisingo&layout=compact&theme=light&cache_seconds=1800" />
 </p>
 
-### 🏆 GitHub Trophies:
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fredrickkisingo&theme=flat&margin-w=15" />
 </p>
